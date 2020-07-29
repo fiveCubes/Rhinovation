@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.56ea49dd.chunk.css",
+    "main.js": "/static/js/main.1be2e9cc.chunk.js",
+    "main.js.map": "/static/js/main.1be2e9cc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.52970a18.js",
+    "runtime-main.js.map": "/static/js/runtime-main.52970a18.js.map",
+    "static/js/2.c74a7643.chunk.js": "/static/js/2.c74a7643.chunk.js",
+    "static/js/2.c74a7643.chunk.js.map": "/static/js/2.c74a7643.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e1a3f534b22624fdd2a2e238421ef10d.js": "/precache-manifest.e1a3f534b22624fdd2a2e238421ef10d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.56ea49dd.chunk.css.map": "/static/css/main.56ea49dd.chunk.css.map",
+    "static/js/2.c74a7643.chunk.js.LICENSE.txt": "/static/js/2.c74a7643.chunk.js.LICENSE.txt",
+    "static/js/main.1be2e9cc.chunk.js.LICENSE.txt": "/static/js/main.1be2e9cc.chunk.js.LICENSE.txt",
+    "static/media/bg.jpg": "/static/media/bg.50f15a1c.jpg",
+    "static/media/bg2.jpg": "/static/media/bg2.1813f9d6.jpg",
+    "static/media/bg3.jpg": "/static/media/bg3.7f7796d8.jpg",
+    "static/media/blog5.jpg": "/static/media/blog5.ea652077.jpg",
+    "static/media/blog7.jpg": "/static/media/blog7.68d5c430.jpg",
+    "static/media/card-blog3.jpg": "/static/media/card-blog3.47bb87fb.jpg",
+    "static/media/card-blog4.jpg": "/static/media/card-blog4.c2cea7c5.jpg",
+    "static/media/card-profile1-square.jpg": "/static/media/card-profile1-square.3122abf4.jpg",
+    "static/media/card-profile2-square.jpg": "/static/media/card-profile2-square.788e3d36.jpg",
+    "static/media/card-profile4-square.jpg": "/static/media/card-profile4-square.1a164917.jpg",
+    "static/media/card-profile6-square.jpg": "/static/media/card-profile6-square.1f1f4900.jpg",
+    "static/media/card-project1.jpg": "/static/media/card-project1.6857ca8c.jpg",
+    "static/media/card-project2.jpg": "/static/media/card-project2.93b1cec5.jpg",
+    "static/media/card-project3.jpg": "/static/media/card-project3.9e15b8b0.jpg",
+    "static/media/card-project4.jpg": "/static/media/card-project4.282e960f.jpg",
+    "static/media/card-project5.jpg": "/static/media/card-project5.516bb2de.jpg",
+    "static/media/card-project6.jpg": "/static/media/card-project6.cdb05aa3.jpg",
+    "static/media/city.jpg": "/static/media/city.58a713c7.jpg",
+    "static/media/office2.jpg": "/static/media/office2.d57fa885.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52970a18.js",
+    "static/js/2.c74a7643.chunk.js",
+    "static/css/main.56ea49dd.chunk.css",
+    "static/js/main.1be2e9cc.chunk.js"
+  ]
+}
